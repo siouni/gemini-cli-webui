@@ -1,0 +1,23 @@
+{
+  "name": "gemini-cli-webui",
+  "version": "1.0.0",
+  "description": "gemini-cliをGradioのUIから操作（非インタラクティブモードのみ）",
+  "homepage": "https://github.com/siouni/gemini-cli-webui#readme",
+  "bugs": {
+    "url": "https://github.com/siouni/gemini-cli-webui/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siouni/gemini-cli-webui.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/gemini-cli": "^0.1.7"
+  }
+}
