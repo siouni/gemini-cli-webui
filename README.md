@@ -28,7 +28,7 @@ python webui.py
 貧乏なのでグラボが買えません。  
 余裕のある方はもしよければ、下記サイトなどからご支援いただけると嬉しいです。  
   
-[Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/2TDWT1E5JBT8S?ref_=wl_share)
+[Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/2TDWT1E5JBT8S?ref_=wl_share)  
 ※PCパーツはネタです。
   
 [![OFUSE](https://github.com/user-attachments/assets/62ffa121-f975-4080-923a-7f55f3cf3759)](https://ofuse.me/siouni)  
